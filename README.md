@@ -67,3 +67,7 @@ The app does not transmit personal data over unencrypted connections. All SDK ne
 ## Changes
 
 This policy may be updated. The "Last updated" date at the top will reflect the most recent change.
+
+## Contact
+
+For support, contact pablollopis@protonmail.com
